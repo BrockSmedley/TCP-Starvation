@@ -1,6 +1,9 @@
 # TCP-Starvation
 
-**Update:** From comments throughout different communities, I've seen links to different articles describing the same issue as I do here. 
+**Instructions:**
+run `killem.sh <website>` and watch it burn
+
+**Update from the other guy:** From comments throughout different communities, I've seen links to different articles describing the same issue as I do here. 
 I understand this vulnerability that has existed for quite some time already (10y+), and by no means trying to take credit for them. 
 Perhaps I used wrong search terms when looking for related articles, or just that they was located at page 42 on google. Either way, I still hope you enjoy the read and perhaps learn something useful.
 
